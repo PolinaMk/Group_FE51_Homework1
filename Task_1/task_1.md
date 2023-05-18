@@ -8,24 +8,24 @@
 
 > Блок `header` и `main_content`
 
-![Альтернативный текст](/Group_FE51_Homework1/Task_1/screenshots/Web_1_1.png)
+![Image alt](https://github.com/PolinaMk/Group_FE51_Homework1/raw/main/Task_1/screenshots/Web_1_1.png)
 
 > Блок `about_us`
 
-![Альтернативный текст](/Group_FE51_Homework1/Task_1/screenshots/Web%201_2.png)
+![Image alt](https://github.com/PolinaMk/Group_FE51_Homework1/raw/main/Task_1/screenshots/Web_1_2.png)
 
 > Блок `Projects`
 
-![Альтернативный текст](/Group_FE51_Homework1/Task_1/screenshots/Web%201_3.png)
+![Image alt](https://github.com/PolinaMk/Group_FE51_Homework1/raw/main/Task_1/screenshots/Web_1_3.png)
 
 > Блок `Services`
 
-![Альтернативный текст](/Group_FE51_Homework1/Task_1/screenshots/Web%201_4.png)
+![Image alt](https://github.com/PolinaMk/Group_FE51_Homework1/raw/main/Task_1/screenshots/Web_1_4.png)
 
 > Блок `Team`
 
-![Альтернативный текст](/Group_FE51_Homework1/Task_1/screenshots/Web%201_5.png)
+![Image alt](https://github.com/PolinaMk/Group_FE51_Homework1/raw/main/Task_1/screenshots/Web_1_5.png)
 
 > Блок `Footer`
 
-![Альтернативный текст](/Group_FE51_Homework1/Task_1/screenshots/Web%201_6.png)
+![Image alt](https://github.com/PolinaMk/Group_FE51_Homework1/raw/main/Task_1/screenshots/Web_1_6.png)
